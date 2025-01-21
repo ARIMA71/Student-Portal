@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Student-Portal/static/js/main.99ad9b9b.js",
+    "static/media/ROO.png": "/Student-Portal/static/media/ROO.99e06d9ddec2dbe0ba65.png",
+    "index.html": "/Student-Portal/index.html",
+    "main.99ad9b9b.js.map": "/Student-Portal/static/js/main.99ad9b9b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99ad9b9b.js"
+  ]
+}
